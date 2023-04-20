@@ -6,7 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Solution URL: https://github.com/akdhiman358/qr-hallenge.git
 
-- Live Site URL: 
+- Live Site URL: https://funny-hotteok-9142ef.netlify.app/
 
 
 
